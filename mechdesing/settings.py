@@ -119,7 +119,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['mech-env.eba-j9pusjgd.us-west-2.elasticbeanstalk.com'] #['*']
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
